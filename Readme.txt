@@ -1,3 +1,8 @@
+Aine ITB8812 (Andmete visualiseerimine) raames koostatud projekt. 
+
+Interaktiivne Shiny Dashboard - https://anarogatsova.shinyapps.io/new_project/
+
+----------------------------------------------------------------
 TM_WORLD_BORDERS-0.1.ZIP 
 
 Provided by Bjorn Sandvik, thematicmapping.org
@@ -42,7 +47,7 @@ CHANGELOG VERSION 0.2 - 1 April 2008
 CHANGELOG VERSION 0.1 - 13 March 2008
 
 - Polygons representing each country were merged into one feature
-- Åland Islands was extracted from Finland
+- Ã…land Islands was extracted from Finland
 - Hong Kong was extracted from China
 - Holy See (Vatican City) was added
 - Gaza Strip and West Bank was merged into "Occupied Palestinean Territory"
